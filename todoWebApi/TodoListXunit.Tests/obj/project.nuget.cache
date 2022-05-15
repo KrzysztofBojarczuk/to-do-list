@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3SOgqOQtbLqaLD26ih7DBx3cjo9C9u1Z0bvgS70k6cUWkdFVB3S40itPhXLOfTRXJISHsP2WqZZqtD5OTg3sSg==",
+  "dgSpecHash": "mPE4Rv05RyLiVOIsgj/qODC+EN9zBdQ8Whpw9GxNRb1PdcTME2wMPFw9g2kzPMZyYvmreruWS8Hw6ZpI/uOsMA==",
   "success": true,
   "projectFilePath": "E:\\Projects\\todolist\\todoWebApi\\TodoListXunit.Tests\\TodoListXunit.Tests.csproj",
   "expectedPackageFiles": [
